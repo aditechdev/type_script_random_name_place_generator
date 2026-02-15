@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+typings/
+
+# Parcel cache
+.parcel-cache/
+
+# Compilation artifacts
+# Compiled JavaScript files from TypeScript sources
+*.js
+*.js.map
+
+# TypeScript cache
+.tscache
+
+# Build output directories
+dist/
+build/
+out/
+output/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.bak.*
+*.editorconfig
+
+# Environment variables
+.env
+.env.local
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
