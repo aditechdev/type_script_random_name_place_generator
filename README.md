@@ -1,3 +1,12 @@
 <!-- npx parcel index.html -->
 <!-- parcel index.html -->
 <!-- npm install -->
+<!-- npm uninstall faker -->
+
+
+<!-- <html>
+  <body>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXwRNFksnxRXxiGVTLeQGaWOyJ7qJzH8M&callback=Function.prototype"></script>
+    <script type="module" src="./src/index.ts"></script>
+  </body>
+</html> -->
